@@ -38,6 +38,7 @@ The figure below shows the **simulation scenario** with **solar-powered UAVs** a
 
 ## 📂 Repository Structure  
 
+```
 .
 ├─ LAB1_Group3.ipynb        # Lab 1 notebook: Queuing models & buffer analysis  
 ├─ LAB2_Group3.ipynb        # Lab 2 notebook: Scheduling & energy-aware UAVs  
@@ -46,7 +47,9 @@ The figure below shows the **simulation scenario** with **solar-powered UAVs** a
 ├─ 2022_MCDSN_lab2_2.pdf    # Lab 2 assignment (official handout)  
 ├─ requirements.txt         # Python dependencies  
 ├─ b04c580d-ea06-4ac9-a034-d61cc3ee97ab.png  # Scenario image  
-└─ README.md                # Project documentation  
+└─ README.md                # Project documentation
+
+```
 
 ---
 
