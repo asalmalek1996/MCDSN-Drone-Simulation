@@ -45,7 +45,6 @@ The figure below shows the **simulation scenario** with **solar-powered UAVs** a
 ├─ 2022_MCDSN_lab1.pdf      # Lab 1 assignment (official handout)  
 ├─ 2022_MCDSN_lab2_2.pdf    # Lab 2 assignment (official handout)  
 ├─ requirements.txt         # Python dependencies  
-├─ b04c580d-ea06-4ac9-a034-d61cc3ee97ab.png  # Scenario image  
 └─ README.md                # Project documentation
 
 ```
