@@ -20,7 +20,7 @@ The network is modeled as a **queuing system (M/M/1, M/M/2, M/G/1, etc.)**, exte
 
 The figure below shows the **simulation scenario** with **solar-powered UAVs** assisting **on-ground base stations** during peak traffic.  
 
-![System Scenario](MCDSN-Drone-Simulation/image scenario.png)  
+![System Scenario](image scenario.png)
 
 ---
 
