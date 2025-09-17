@@ -22,6 +22,9 @@ The figure below shows the **simulation scenario** with **solar-powered UAVs** a
 
 ![System Scenario](image scenario.png)
 
+<img src="image scenario.png" alt="System Scenario" width="600"/>
+
+
 
 ---
 
