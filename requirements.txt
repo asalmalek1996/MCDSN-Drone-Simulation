@@ -1,0 +1,9 @@
+# requirements.txt
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+tqdm
+jupyter
+ipykernel
